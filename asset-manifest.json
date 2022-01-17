@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.6f5a4c17.js",
+    "main.css": "/react-portfolio/static/css/main.417cfc24.css",
+    "main.js": "/react-portfolio/static/js/main.b5eda830.js",
     "static/js/787.86e70ff7.chunk.js": "/react-portfolio/static/js/787.86e70ff7.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/coding2.jpg": "/react-portfolio/static/media/coding2.b3987842f88ac301e93b.jpg",
+    "static/media/profilepic.JPG": "/react-portfolio/static/media/profilepic.fafac47dc736888b2564.JPG",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.8a3ab3c2b66e6979a7ff.pdf",
+    "static/media/readmegen.PNG": "/react-portfolio/static/media/readmegen.a590ec2a1d68c991ab93.PNG",
+    "static/media/travelblog.png": "/react-portfolio/static/media/travelblog.be009283d5cf20588758.png",
+    "static/media/dayplanner.PNG": "/react-portfolio/static/media/dayplanner.5252b5b4ea3e85674625.PNG",
+    "static/media/artwatchphoto.PNG": "/react-portfolio/static/media/artwatchphoto.a16c80f32968e7bf00b2.PNG",
+    "static/media/passwordgen.PNG": "/react-portfolio/static/media/passwordgen.4387bfa8b8da55ec55c7.PNG",
+    "static/media/fitnesstracker.PNG": "/react-portfolio/static/media/fitnesstracker.44ef19af0faf9524ed28.PNG",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.6f5a4c17.js.map": "/react-portfolio/static/js/main.6f5a4c17.js.map",
+    "main.417cfc24.css.map": "/react-portfolio/static/css/main.417cfc24.css.map",
+    "main.b5eda830.js.map": "/react-portfolio/static/js/main.b5eda830.js.map",
     "787.86e70ff7.chunk.js.map": "/react-portfolio/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6f5a4c17.js"
+    "static/css/main.417cfc24.css",
+    "static/js/main.b5eda830.js"
   ]
 }
