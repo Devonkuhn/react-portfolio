@@ -19,7 +19,6 @@ function App() {
   return (
     <Router>
     <NavBar />
-        
         <Route component={About} path='/react-portfolio' exact />
         <Route compoment={About} path='/' exact />
         <Route component={Portfolio} path='/portfolio' />
