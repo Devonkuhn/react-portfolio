@@ -1,0 +1,125 @@
+/* Header/Navbar */
+.navBar {
+  background: radial-gradient(circle, #084612, #000);
+
+}
+
+.link {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.myName {
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: skyblue;
+  text-decoration: underline;
+}
+
+.projectImg {
+  border: ridge;
+  border-color: white;
+  border-radius: 5%;
+  border-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+/* About section */
+.about{
+  height: 110vh;
+  padding: 5%;
+
+}
+
+.myPhoto {
+  border: ridge;
+  border-color: #000;
+  border-radius: 100%;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.myBio {
+  color: white;
+  border-color: #109927;
+  border-style: solid;
+  size: 1.5em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flexbox;
+  margin: 5%;
+  background: radial-gradient(circle, #0a5d18, #000);
+}
+
+/* Portfolio Section */
+.githubLink {
+  color: white;
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+
+article {
+  /* background-color: lightskyblue; */
+  background: radial-gradient(circle, #109927, #06380f, #000);
+  border-radius: 5%;
+  color: white;  
+}
+
+/* Contact Section */
+.contactTitle {
+  color: white;
+  text-align: center;
+  border-color: #109927;
+  border-style: solid;
+  display: flexbox;
+  size: 1.5em;
+  margin: 5%;
+  background: radial-gradient(circle, #0a5a17, #000);
+}
+
+.contactForm {
+  height: 84vh;
+  padding: 5%;
+}
+
+.form {
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* Resume Section */
+.resumeLink {
+  text-decoration: none;
+}
+
+/* Footer */
+.footer {
+  background: radial-gradient(circle, #084612, #000);
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.iconLinks {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  padding: 0;
+  display: inline-block;
+}
